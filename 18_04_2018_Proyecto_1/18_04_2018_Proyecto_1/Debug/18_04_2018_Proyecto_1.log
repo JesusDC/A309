@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\propietario\source\repos\18_04_2018_proyecto_1\18_04_2018_proyecto_1\source.cpp(8): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\propietario\source\repos\18_04_2018_proyecto_1\18_04_2018_proyecto_1\source.cpp(9): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+  18_04_2018_Proyecto_1.vcxproj -> C:\Users\Propietario\source\repos\18_04_2018_Proyecto_1\Debug\18_04_2018_Proyecto_1.exe
